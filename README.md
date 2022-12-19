@@ -1,14 +1,13 @@
-# 🇸🇪 Robert Balulis
+# ⚜️ Robert Balulis
 
-**Automation engineer/Software developer**
+**Automation engineer/software developer**
 
-I'm an engineer that have a passion for automation and AI. My goal is to bring the two fields automation and software development together.
+I'm an engineer with a passion for automation and AI. My goal is to bring the two fields of automation and software development together.
 
 
 ---
 
 ###  Languages and tools i use
-
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -23,14 +22,8 @@ I'm an engineer that have a passion for automation and AI. My goal is to bring t
 
 #
 
-
-#
-
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
- I began my journey in the automation field as a technician that build controllers and programmed them to do lots of things,
- everything from making knee pads, making bed clothes to monitor and control hospitals, laboratories and industrial plant. 
- And from there i began learning C# then switched to Python because i wanted to learn machine learning and bring back that knowledge to industrial automation.
+### 👨‍💻 My Coding Journey
+I began my journey in the automation field as a technician that built controllers and programmed them to do lots of things, everything from making knee pads and bedclothes to monitoring and controlling hospitals, laboratories, and industrial plants. And from there, I began learning C#, then switched to Python because I wanted to learn machine learning and bring that knowledge back to industrial automation.
  
 
 
