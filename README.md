@@ -23,8 +23,8 @@ I'm an engineer with a passion for automation and AI. My goal is to bring the tw
 
 #
 
-### 👨‍💻 My journey
-I began my journey in the automation field as a technician that built controllers and programmed them to do lots of things, everything from making knee pads and bedclothes to monitoring and controlling hospitals, laboratories, and industrial plants. And from there, I began learning C#, then switched to Python because I wanted to learn machine learning and bring that knowledge back to industrial automation.
+### 👨‍💻 About me
+I began in the automation field as a technician that built controllers and programmed them to do lots of things, everything from making knee pads and bedclothes to monitoring and controlling hospitals, laboratories, and industrial plants. And from there, I began learning C#, then switched to Python because I wanted to learn machine learning and bring that knowledge back to industrial automation.
  
 
 
